@@ -1,0 +1,4 @@
+sudo apt update && sudo apt upgrade
+sudo apt install git build-essential python3-dev
+sudo chmod +x *
+./install.sh
